@@ -3,7 +3,7 @@
     "name": "Revan Sarbast",
     "occupation": "ReactJS Developer",
     "description": "software engineering student",
-    "image": "IG_Sonny.jpeg",
+    "image": "https://scontent.febl5-1.fna.fbcdn.net/v/t1.0-9/56681291_1167284196778595_974159463894220800_n.jpg?_nc_cat=110&_nc_sid=09cbfe&_nc_ohc=pX7QDwglaB0AX_gqWqT&_nc_oc=AQnwtnEvvgctVnqOHwA1LATxzTNaFwFf_LYiqKzhYTm3g8hfElsU7s4hYMx-DbqL-NU&_nc_ht=scontent.febl5-1.fna&oh=77fd65ea92f62f040ee2209d96e95a4d&oe=5F7BD394",
     "bio": "My name is Revan, I'm a front-end web Developer and react Developer . Currently I'm working as a student",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "revansarbast8@gmail.com",
@@ -43,10 +43,10 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "University of Salahaddin",
+        "degree": "undergraduate",
+        "graduated": "not graduated",
+        "description": ""
       }
     ],
     "work": [
@@ -93,47 +93,19 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
       },
-      {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
-      }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
         "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "user": "Revan Sarbast"
       },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
-      }
     ]
   }
 }
